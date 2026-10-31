@@ -1,0 +1,4 @@
+numpy>=1.23,<3
+scikit-learn>=1.2,<2
+opencv-python-headless>=4.7,<5
+joblib>=1.2,<2
